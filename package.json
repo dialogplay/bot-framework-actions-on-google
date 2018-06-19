@@ -7,7 +7,7 @@
   "author": "Dan Cotton",
   "license": "MIT",
   "dependencies": {
-    "actions-on-google": "^1.7.0",
+    "actions-on-google": "^1.9.0",
     "body-parser": "^1.18.2",
     "botframework-directlinejs": "^0.9.14",
     "express": "^4.16.2",
